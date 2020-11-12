@@ -1,18 +1,18 @@
 #include <iostream> /* Importar librerias */
 using namespace std; /* Usar espacio de nombre*/
 
-/* Función main donde comienza la ejecución de nuestro programa */
+/* Funciï¿½n main donde comienza la ejecuciï¿½n de nuestro programa */
 int main() {
 	/*Hola
 	esto es un comentario 
-	larogb¡ */
+	larogbï¿½ */
 	
-	// Esto es uno de línea
+	// Esto es uno de lï¿½nea
 	/*
-	DEFINICIÓN Y DECLARACIÓN
-	Definición -> Defino la variable pero no le asigno valor.
+	DEFINICIÃ“N Y DECLARACIï¿½N
+	Definiciï¿½n -> Defino la variable pero no le asigno valor.
 	---Creo variable suma.
-	Declaración -> Defino la variable y le asigno valor
+	Declaraciï¿½n -> Defino la variable y le asigno valor
 	--- Creo variable suma = 0;
 	*/
 	
@@ -47,15 +47,15 @@ int main() {
 		12%2 = 0;
 		-3; // operador negativo
 	
-		OPERACIONES DE COMPARACIÓN
+		OPERACIONES DE COMPARACIï¿½N
 		3 > 2 -> ME DEVUELVE UN VALOR BOOLEANO -> true
 		2 > 3 -> false
 		3 >= 3 -> true 3 <= 2 -> true
 		3 != 3 -> false 3 != 2 -> true
-		3 = 3 -> NO COMPARO ASÍ
+		3 = 3 -> NO COMPARO ASï¿½
 		3 == 3 -> true 
 	
-		OPERADORES LÓGICOS
+		OPERADORES Lï¿½GICOS
 	
 		3 > 2 &&(AND) 4 < 5 -> true && true -> true 
 		3 > 2 &&(AND) 4 >5 -> true && false -> false
